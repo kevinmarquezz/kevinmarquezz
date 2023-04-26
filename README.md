@@ -1,4 +1,4 @@
-# 🇦🇷 About Me:
+# 👋 About Me:
 - 💻 I'm currently working on my personal projects.<br>- 📚 I'm currently studying front-end development.<br>- 🙏 I'm looking to collaborate on large/small projects to be able to gain experience in this.<br>- ⚽ Fun fact:  I am a fan of the Boca Juniors football team of Argentina.<br><br>If you want to contact me, send me a message on this same platform :)
 
 # 💻 Tech Stack:
