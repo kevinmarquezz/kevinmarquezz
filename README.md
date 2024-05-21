@@ -8,12 +8,11 @@ Me llamo Kevin, tengo 16 años y estoy hace más o menos 2 años estudiando desa
 
 <br>
 
-# ¿Querés contactarte conmigo?
+<h2>🤝 ¿Querés contactarte conmigo?</h2> 
 
 <a target="_blank" href="https://www.instagram.com/kevinnmarquez_/"><img style="width: 2rem" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" /></a>   <a target="_blank" href="mailto:kevinvalmarquez@gmail.com?subject=Contacto"><img style="width: 3rem" src="https://download.logo.wine/logo/Gmail/Gmail-Logo.wine.png" /></a> 
 
-
-# 💻 Tech Stack:
+<h2>💻 Mi stack actual: </h2> 
 
 Frontend:
 
