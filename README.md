@@ -9,6 +9,7 @@
 # ¿Querés contactarte conmigo?
 
 <a href="https://instagram.com"><img style="width: 2rem" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" /></a> 
+<a href="https://instagram.com"><img style="width: 2rem" src="https://download.logo.wine/logo/Gmail/Gmail-Logo.wine.png" /></a> 
 
 # 💻 Tech Stack:
 
