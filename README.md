@@ -4,8 +4,6 @@
 
 Me llamo Kevin, tengo 16 años y estoy hace más o menos 2 años estudiando desarrollo front-end, actualmente estoy trabajando en un proyecto además de trabajar en proyectos personales para mejorar mis habilidades de desarrollo.
 
-<br>
-
 <h2>🤝 ¿Querés contactarte conmigo?</h2> 
 
 <a target="_blank" href="https://www.instagram.com/kevinnmarquez_/"><img style="width: 2rem" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" /></a>   <a target="_blank" href="mailto:kevinvalmarquez@gmail.com?subject=Contacto"><img style="width: 3rem" src="https://download.logo.wine/logo/Gmail/Gmail-Logo.wine.png" /></a> 
