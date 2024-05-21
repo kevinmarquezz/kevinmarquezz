@@ -18,11 +18,11 @@ Frontend:
 
 Backend:
 
-![Nodejs](https://img.shields.io/badge/Nodejs-green?style=flat&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express-blue?style=flat&logo=express&logoColor=white)
+![Nodejs](https://img.shields.io/badge/Nodejs-green?style=for-the-badge&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express-blue?style=for-the-badge&logo=express&logoColor=white)
 
 Otros:
 
 ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white) 
 
-![Git](https://img.shields.io/badge/Git-red?style=flat&logo=git&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) 
+![Git](https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) 
 
