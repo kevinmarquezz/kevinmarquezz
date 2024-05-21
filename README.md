@@ -16,7 +16,8 @@ Frontend:
 
 Backend:
 
-![Nodejs](https://img.shields.io/badge/Nodejs-green?style=for-the-badge&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express-blue?style=for-the-badge&logo=express&logoColor=white)
+![Nodejs](https://img.shields.io/badge/Nodejs-green?style=for-the-badge&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express-blue?style=for-the-badge&logo=express&logoColor=white) ![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white)
+
 
 Otras habilidades:
 
