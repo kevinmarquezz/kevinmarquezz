@@ -2,7 +2,7 @@
 
 <h2>👋 Sobre mi:</h2> 
 
-Me llamo Kevin, tengo 17 años y estoy hace más o menos 3 años estudiando desarrollo front-end, actualmente estoy trabajando en un proyecto además de trabajar en proyectos personales para mejorar mis habilidades de desarrollo.
+Me llamo Kevin, tengo 17 años y hace 5 años empecé a estudiar programación, enfocado al desarrollo web. Hoy trabajo en empresas de distintos rubros y en proyectos personales.
 
 <h2>🤝 ¿Querés contactarte conmigo?</h2> 
 
