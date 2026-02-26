@@ -2,7 +2,7 @@
 
 <h2>👋 Sobre mi:</h2> 
 
-Me llamo Kevin, tengo 17 años y hace 5 años empecé a estudiar programación, enfocado al desarrollo web. Hoy trabajo en empresas de distintos rubros y en proyectos personales.
+Me llamo Kevin, tengo 18 años y hace 5 años empecé a estudiar programación, enfocado al desarrollo web. Hoy trabajo en empresas de distintos rubros y en proyectos personales.
 
 <h2>🤝 ¿Querés contactarte conmigo?</h2> 
 
