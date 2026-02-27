@@ -2,7 +2,7 @@
 
 <h2>👋 Sobre mi:</h2> 
 
-Me llamo Kevin, tengo 18 años y hace 5 años empecé a estudiar programación, enfocado al desarrollo web. Hoy trabajo en empresas de distintos rubros y en proyectos personales.
+Desarrollador autodidacta desde los 13 años, hoy con 18. Apasionado por la tecnología, los negocios y aprender constantemente cosas nuevas.
 
 <h2>🤝 ¿Querés contactarte conmigo?</h2> 
 
